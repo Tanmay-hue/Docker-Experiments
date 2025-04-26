@@ -98,7 +98,7 @@ Open a web browser and go to:
 http://localhost:8501
 ```
 
-![Streamlit App](https://github.com/Tanmay-hue/DockerSpace/blob/main/3.Titanic%20Survival%20Predictor%20Containerized%20Streamlit%20App/img2.png)
+![Streamlit App](https://github.com/Tanmay-hue/Docker-Experiments/blob/main/3.Titanic%20Survival%20Predictor%20Containerized%20Streamlit%20App/img2.pngg)
 
 ---
 
