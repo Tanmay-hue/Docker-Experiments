@@ -131,7 +131,7 @@ docker run -p 8501:8501 evidently-streamlit
 
 Visit [http://localhost:8501](http://localhost:8501) in your browser.
 
-![Streamlit Dashboard](https://github.com/Tanmay-hue/DockerSpace/blob/main/8.%20Evidently%20AI%20Sets%20Sail%20in%20Docker/image.png)
+![Streamlit Dashboard](https://github.com/Tanmay-hue/Docker-Experiments/blob/main/8.%20Evidently%20AI%20Sets%20Sail%20in%20Docker/image.png)
 
 ---
 
